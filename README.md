@@ -16,4 +16,4 @@ This project looks at possible connections between bus routes that start with th
 ## Example Plot
 ![Bus Route Plot](images/Buses7.png)
 
-This plot shows bus routes, with different colors for routes starting with the same number.
+This plot shows bus routes, for routes starting with the same number.
